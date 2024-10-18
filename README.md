@@ -5,6 +5,9 @@ https://www.canva.com/design/DAGT7XaRPX4/YrBEKCkxntZsV03S55QNUg/edit?utm_content
 Accéder au site
 (https://hounaida202.github.io/cinemabrief/)
 
+le fichier figma :
+https://drive.google.com/file/d/1tII-kbSeiEEK_q74zRFjFf6XCXcEXxwz/view?usp=sharing
+
 Objectifs du projet
 Cinéma’s est un site web crée avec un code simple  de html et css, au but d’informer et de faciliter le contact et l’achat des tickets en ligne 
 
